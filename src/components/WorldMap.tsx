@@ -37,7 +37,7 @@ const locations: Location[] = [
 		position: latLonToXYZ(16.5388, -23.0418),
 		description: "Un archipel volcanique dans l'océan Atlantique.",
 		image: "https://images.unsplash.com/photo-1570968915860-54d151529688?auto=format&fit=crop&q=80&w=500",
-		url: "/cap-vert",
+		url: "./pages/cap-vert", 
 	},
 	{
 		name: "Égypte",
