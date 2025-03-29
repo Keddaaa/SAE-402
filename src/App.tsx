@@ -5,6 +5,7 @@ import EgyptePage from "./pages/egypte"; // Page personnalisée pour l'Egypte
 import MaliPage from "./pages/Mali"; // Page personnalisée pour le Mali
 import JaponPage from "./pages/Japon"; // Page personnalisée pour le Japon
 import Japon2Page from "./pages/Japon2"; // Page personnalisée pour le Japon
+import ChiliPage from "./pages/Chili";
 
 function App() {
 	return (
@@ -20,6 +21,7 @@ function App() {
 					<Route path="/Mali" element={<MaliPage />} />
 					<Route path="/Japon" element={<JaponPage />} />
 					<Route path="/Japon2" element={<Japon2Page />} />
+					<Route path="/chili" element={<ChiliPage />} />
 
 					{/* Ajoutez d'autres routes ici */}
 				</Routes>

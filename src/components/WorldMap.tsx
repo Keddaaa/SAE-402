@@ -65,7 +65,7 @@ const locations: Location[] = [
 		position: latLonToXYZ(-35.6751, -71.543),
 		description: "Le Chili, terre de contrastes.",
 		image: "https://images.unsplash.com/photo-1591986472235-c1eeb2c504a2?auto=format&fit=crop&q=80&w=500",
-		url: "https://fr.wikipedia.org/wiki/Chili",
+		url: "/Chili",
 	},
 	{
 		name: "Mali",
