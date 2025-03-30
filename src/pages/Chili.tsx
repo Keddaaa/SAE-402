@@ -32,7 +32,7 @@ export default function Modelisation() {
 					{/* Modèle 3D - Sans aspect-square */}
 					<div className="w-full h-[600px] bg-gray-100 rounded-md flex items-center justify-center">
 						<model-viewer
-							src="/models/Moaï.glb"
+							src="/models/moai.glb"
 							alt="Calebasse mandingue"
 							camera-controls
 							auto-rotate
